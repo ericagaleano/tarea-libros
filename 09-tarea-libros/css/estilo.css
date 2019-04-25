@@ -1,0 +1,10 @@
+.titulo-principal{
+	text-align: center;
+	transition-property: margin-left;
+	transition-duration: 2s;
+	transition-timing-function: ease;
+}
+
+.titulo-principal:hover{
+	margin-left: 200px;
+}
