@@ -1,0 +1,14 @@
+body{background: url("../img/4.jpg"); background-repeat: round;}
+
+h1{text-shadow: 8px 8px 8px 8px white; font-family: Times New Roman; font-style: italic;}
+
+.card{padding: 30px; text-align: center;}
+
+.card-content{padding: 20px; text-align: justify; background-color: #F5F5DC;}
+
+.portada{border-radius: 10px;}
+
+.foto{border-radius: 10px;}
+
+#wrapper {width:850px; margin:0 auto; margin-left: auto; margin-right: auto;}
+
